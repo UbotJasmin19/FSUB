@@ -1,5 +1,5 @@
 {
-  "name": "File Sharing",
+  "name": "File Sharing Jasmine",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/UbotJasmin19/Fsub2",
-  "logo": "https://telegra.ph/file/7f06a20f6bec6fa888535.jpg",
+  "logo": "https://telegra.ph/file/c6731eb6208641e15b8ce.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",

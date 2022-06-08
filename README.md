@@ -1,11 +1,11 @@
-# File-Sharing
+# File-Jasmine
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@obrolansuar](https://www.telegram.dog/obrolansuar)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan Lapor di group [@lilgangcuyy](https://www.telegram.dog/lilgangcuyy)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -77,7 +77,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/obrolansuar) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/DeployBot01) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/lilgangcuyy) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Jasminenocounter) untuk info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 

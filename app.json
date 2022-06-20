@@ -21,11 +21,11 @@
       "description": "Masukan User ID Telegram untuk Owner BOT",
       "value": "973175059"
     },
-    "ADMINS_1: {
+     "ADMIN_1": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
       "value": "0"
     },
-       "ADMINS_2: {
+      "ADMIN_2": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
       "value": "0"
     },
